@@ -1,0 +1,39 @@
+body {
+    background-color: #dbe2e8;
+  }
+
+  .login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #51a5d0;
+    box-shadow: 0 0 10px rgba(13, 241, 44, 0.1);
+    border-radius: 5px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  .form-group label {
+    font-weight: bold;
+  }
+
+  .form-control {
+    border-radius: 20px;
+  }
+
+  .btn-primary {
+    background-color: #1e2329;
+    border: none;
+    border-radius: 20px;
+  }
+
+  .btn-primary:hover {
+    background-color: #908989;
+  }
